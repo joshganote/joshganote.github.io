@@ -8,7 +8,10 @@
     text-align: left;
     border-radius: 30px;
 }
-
+#picture {
+    height: 180px;
+    width: 180;
+}
 #content-contact {
     text-align: center;
 }
