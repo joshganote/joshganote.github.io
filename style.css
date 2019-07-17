@@ -3,4 +3,11 @@
     margin-left: 200px;
     margin-right: 200px;
     background-color: #fffff0;
+    padding: 40px;
+    text-align: left;
+    
+}
+h1 {
+    font: Bondi;
+    font-size: 72px;
 }
