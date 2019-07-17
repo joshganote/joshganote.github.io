@@ -5,9 +5,14 @@
     background-color: #fffff0;
     padding: 40px;
     text-align: left;
-    
 }
 h1 {
     font: Bondi;
     font-size: 72px;
+    margin-bottom: -20px;
+}
+h2{
+    font: Bondi;
+    font-size: 48px;
+    margin-bottom: -10px;
 }
