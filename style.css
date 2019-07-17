@@ -1,12 +1,12 @@
 #container {
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: #fffff0;
     padding: 40px;
     text-align: left;
-    border-radiu: 10px;
+    border-radiu: 15px;
 }
 h1 {
     font: Bondi;
