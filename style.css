@@ -14,7 +14,9 @@
 }
 
 .picture {
-    text-align: right
+    text-align: right;
+    margin-right: 300px;
+    margin-top: 300px;
 }
 
 .divider-top {
