@@ -15,6 +15,7 @@
 
 .divider-top {
     text-align: center;
+    float: right;
 }
 
 h1 {
@@ -27,8 +28,8 @@ h2 {
     font: Bondi;
     font-size: 18px;
     margin-bottom: -15px;
-    text-align: center;
 }
+
 img {
     border-radius: 50%;
     float: right;
