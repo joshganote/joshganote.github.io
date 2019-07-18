@@ -13,20 +13,35 @@
     text-align: center;
     margin-left: 200px;
 }
-
 .divider-top {
     text-align: center;
 }
-
-.professional {
-    font-size: 28px;
+h1 {
+    font: Bondi;
+    font-size: 52px;
+    margin-bottom: -15px;
+}
+h2 {
+    font: Bondi;
+    font-size: 18px;
+    margin-bottom: -15px;
+}
+h3 {
+    font-size: 20px;
+    margin-top: -10px
 }
 
-.purpose {
+h4 {
+    font-size: 18px;
+    margin-top: 30px
+    margin-top: -10px
+}
+
+li {
+    font-size: 16px;
     text-align: left;
-    margin-left: -200px;
+    font: garamond;
 }
-
 img {
     border-radius: 50%;
     float: right;
