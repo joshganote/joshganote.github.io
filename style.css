@@ -24,6 +24,10 @@
     font-size: 28px;
 }
 
+.purpose {
+    text-align: left;
+    margin-bottom: 20px;
+}
 h1 {
     font: Bondi;
     font-size: 52px;
