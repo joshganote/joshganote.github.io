@@ -18,6 +18,10 @@
     text-align: center;
 }
 
+.professional {
+    margin-bottom: -30px;
+}
+
 h1 {
     font: Bondi;
     font-size: 52px;
@@ -31,17 +35,17 @@ h2 {
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 28px;
     margin-top: -10px
 }
 
 h4 {
-    font-size: 18px;
+    font-size: 22px;
     margin-top: -10px
 }
 
 li {
-    font-size: 16px;
+    font-size: 18px;
     text-align: left;
     font: garamond;
 }
