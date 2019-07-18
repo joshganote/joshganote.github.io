@@ -13,6 +13,13 @@
     text-align: center;
     margin-left: 200px;
 }
+
+#content-summary {
+    font: garamond;
+    font-size: 20px;
+    font-style: italic;
+}
+
 .divider-top {
     text-align: center;
 }
