@@ -26,7 +26,8 @@
 
 .purpose {
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
+    margin-left: -200px;
 }
 h1 {
     font: Bondi;
