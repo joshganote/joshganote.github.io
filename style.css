@@ -23,6 +23,14 @@
 .divider-top {
     text-align: center;
 }
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
 h1 {
     font: Bondi;
     font-size: 52px;
