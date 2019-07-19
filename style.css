@@ -64,7 +64,8 @@ h5 {
 
 p {
     font: Bondi;
-    font-style: italic bold;
+    font-style: italic;
+    font-style: bold;	
 }
 
 li {
