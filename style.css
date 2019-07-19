@@ -62,6 +62,11 @@ h5 {
     font: Bondi;
 }
 
+p {
+    font: Bondi;
+    font-style: italic;	
+}
+
 li {
     font-size: 16px;
     text-align: left;
